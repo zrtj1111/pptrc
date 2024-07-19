@@ -22,7 +22,7 @@ setup(
     package_data={
         'pptrc': ['js/*.js', 'js/package.json'],
     },
-    url='https://github.com/zrtj1111',
+    url='https://github.com/zrtj1111/pptrc.git',
     install_requires=requirements,
     classifiers=[
         'Programming Language :: Python',
