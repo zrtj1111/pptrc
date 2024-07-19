@@ -1,0 +1,16 @@
+{
+  "name": "pptrs",
+  "version": "0.0.1",
+  "private": true,
+  "description": "puppeteer异步转同步server端",
+  "main": "stub.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0",
+    "jsonfile": "^6.1.0",
+    "log4js": "^6.7.1",
+    "puppeteer-core": "*"
+  }
+}
